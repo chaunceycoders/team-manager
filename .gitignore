@@ -1,0 +1,6 @@
+variables.env
+.DS_Store
+*.py[cod]
+*$py.class
+env/
+team_manager/__pycache__/
